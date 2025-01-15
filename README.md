@@ -1,6 +1,6 @@
 # Installation and Setup
 
-!> [!IMPORTANT]
+> [!IMPORTANT]
 
 > You need to install stow first if you don't have.
 
