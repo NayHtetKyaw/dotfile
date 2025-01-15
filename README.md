@@ -2,9 +2,14 @@
 
 > [!IMPORTANT]
 > You need to install stow first if you don't have.
-
+### For Linux (change package manager accordingly)
 ```bash
 sudo pacman -S stow
+```
+
+### For Mac
+```bash
+brew install stow
 ```
 
 ## git clone the repo into ~ home dir
