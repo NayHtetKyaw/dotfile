@@ -102,6 +102,7 @@ case ":$PATH:" in
 esac
 # pnpm end
 
+export TERM=xterm-256color
 export EDITOR=nvim
 export SUDO_EDITOR=nvim
 export MOZ_ENABLE_WAYLAND=1
