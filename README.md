@@ -1,8 +1,18 @@
+# Installation and Setup
+
+!> [!IMPORTANT]
+
+> You need to install stow first if you don't have.
+
+```bash
+sudo pacman -S stow
+```
+
 ## git clone the repo into ~ home dir
 
 ## cd into in dotfile (cloned repo)
 
-## stow <the config folders you want>
+## stow the config folders you want
 
 ### For example
 
@@ -15,8 +25,25 @@ stow tmux nvim # for symlink more than 1 config folder
 
 > [!IMPORTANT]
 
-## Dependencies
+# Dependencies
+
+##
+
+```bash
+tmux zoxide bat fzf eza
+```
+
+### Arch Linux
 
 ```bash
 sudo pacman -S zoxide bat fzf eza
+```
+
+> [!NOTE]
+> change the package mangaer to accordingly based on your distros
+
+### For Mac
+
+```bash
+brew install zxoide bat fzf eza
 ```
