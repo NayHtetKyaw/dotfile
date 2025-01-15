@@ -1,6 +1,6 @@
 # Installation and Setup
 
-!> [!IMPORTANT]
+> [!IMPORTANT]
 
 > You need to install stow first if you don't have.
 
@@ -22,8 +22,6 @@ sudo pacman -S stow
 stow tmux # for symlink only 1 config folder
 stow tmux nvim # for symlink more than 1 config folder
 ```
-
-> [!IMPORTANT]
 
 # Dependencies
 
