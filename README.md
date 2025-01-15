@@ -1,7 +1,6 @@
 # Installation and Setup
 
-> [!NOTE]
-
+> [!IMPORTANT]
 > You need to install stow first if you don't have.
 
 ```bash
