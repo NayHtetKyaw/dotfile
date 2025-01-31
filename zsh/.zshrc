@@ -133,6 +133,8 @@ alias r="R_AUTO_START=true nvim"
 
 # Git aliases
 alias gcm="git commit -m"
+alias gaa="git add ."
+alias gp="git push -u origin main"
 
 # bun completions
 [ -s "/home/lain/.bun/_bun" ] && source "/home/lain/.bun/_bun"

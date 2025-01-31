@@ -1,0 +1,27 @@
+# Font configuration
+font-family = JetBrainsMono Nerd Font
+font-size = 11
+
+# Window configuration
+window-width = 1920
+window-height = 1080
+window-decoration = false
+theme = Kanagawa Wave
+macos-option-as-alt = true
+mouse-hide-while-typing = true
+
+# Cursor configuration
+cursor-style = "block"
+cursor-style-blink = true
+
+# Color scheme - Nord-inspired theme
+# foreground = "#D8DEE9"
+background-opacity = 0.9
+clipboard-read = allow
+clipboard-write = allow 
+
+# background = "#2E3440"
+selection-foreground = "#D8DEE9"
+selection-background = "#4C566A"
+
+#key-binds
