@@ -9,6 +9,9 @@ window-decoration = false
 theme = Kanagawa Wave
 macos-option-as-alt = true
 mouse-hide-while-typing = true
+gtk-tabs-location = hidden
+gtk-titlebar = false
+
 
 # Cursor configuration
 cursor-style = "block"
