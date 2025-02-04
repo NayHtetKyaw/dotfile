@@ -12,19 +12,16 @@ mouse-hide-while-typing = true
 gtk-tabs-location = hidden
 gtk-titlebar = false
 
-
 # Cursor configuration
 cursor-style = "block"
 cursor-style-blink = true
 
 # Color scheme - Nord-inspired theme
-# foreground = "#D8DEE9"
 background-opacity = 0.9
 clipboard-read = allow
 clipboard-write = allow 
 
-# background = "#2E3440"
 selection-foreground = "#D8DEE9"
 selection-background = "#4C566A"
 
-#key-binds
+#keybinds
