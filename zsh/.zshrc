@@ -1,6 +1,9 @@
 ###############
 ## AUTOSTART ##
 ###############
+autoload -Uz compinit
+compinit -i
+
 
 source "$HOME/.tmux-auto.zsh"
 
@@ -136,7 +139,7 @@ alias r="R_AUTO_START=true nvim"
 # Git aliases
 alias gcm="git commit -m"
 alias gaa="git add ."
-alias gp="git push -u origin main"
+alias gp="git push"
 
 # bun completions
 [ -s "/home/lain/.bun/_bun" ] && source "/home/lain/.bun/_bun"
@@ -157,3 +160,7 @@ autoload -Uz compinit
 compinit
 
 alias bat="batcat"
+
+# Generated for envman. Do not edit.
+[ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
+
